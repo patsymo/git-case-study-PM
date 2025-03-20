@@ -1,0 +1,6 @@
+## Short Description of Commit
+
+## Motivation & Explanation
+
+- **Fixes-Bug:** <!-- Enter bug ID or delete line -->  
+- **Implements-Requirement:** <!-- Enter requirement-id or delete line -->
