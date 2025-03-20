@@ -1,6 +1,6 @@
-# Exam: Case Study Using Git with Templates and Markdown Styling
+# Case Study: Git with Templates and Markdown Styling
 
-> A case study exercise using Git with templates and Markdown styling.
+This exercise helps you understand Git commands and how to work with branches, commit changes, and resolve merge conflicts.
 
 ## Getting Started
 
